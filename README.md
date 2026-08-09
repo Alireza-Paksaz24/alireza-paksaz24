@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alireza-paksaz24" alt="alireza-paksaz24" /></a> </p>
 
-- 🔭 I’m currently working on **Doodle Jump Clone with Unity**
+- 🔭 I’m currently working on **something fun**
 
 - 📫 How to reach me **a.paksaz@outlook.com**
 
